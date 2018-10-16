@@ -1,5 +1,5 @@
 # Machine-Learning-Swift-Object-Detection
-I made a Machine Learning application where the camera detects the 
+I made a Machine Learning application where we the user clicks the camera button and the image is sent to image view.The machine detects the photo and gives the output in the label stating the type of the image. 
 
 
 ## How it works (Pseudocode)
