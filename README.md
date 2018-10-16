@@ -36,17 +36,17 @@ I made a Machine Learning application where the camera detects the
 
 ### User Interface
 
-![](Screenshots/User_interface.png)
+![](Screenshot/User_interface.png)
 
 ### Permission for camera
 
 
-![](Screenshots/Permission'.png)
+![](Screenshot/Permission'.png)
 
 ### Output after the image running through the model
 
-![](Screenshots/Demo1.png)
-![](Screenshots/Demo1.png)
-![](Screenshots/Demo1.png)
-![](Screenshots/Demo1.png)
-![](Screenshots/Demo1.png)
+![](Screenshot/Demo1.png)
+![](Screenshot/Demo1.png)
+![](Screenshot/Demo1.png)
+![](Screenshot/Demo1.png)
+![](Screenshot/Demo1.png)
