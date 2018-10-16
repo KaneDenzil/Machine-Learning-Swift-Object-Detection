@@ -1,2 +1,51 @@
 # Machine-Learning-Swift-Object-Detection
-This is a simple hello world application where we the user clicks the camera button and the image is sent to image view.The machine detects the photo and gives the output in the label stating the type of the image. 
+I made a Machine Learning application where the camera detects the 
+
+
+## How it works (Pseudocode)
+1. Application loads.
+2. Click the camera button to take an image.
+3. Camera asks for permission (set permission through info.plist)
+4. The Camera captures the UI Image.
+5. The UI Image is converted to CI Image and then it runs through the model.
+6. After CI Image is processed in the model the Model presents the results in associative array with outputs, in the below format
+
+
+(
+                          "Output_name" => 'name of the output',
+                          "Result_as_per_the_model" => 'Result in number'
+                              )
+                              
+**Example** 
+ 
+ 
+(
+                          "Output_name" => 'Electrical switch',
+                          "Result_as_per_the_model" => '34.67898'
+                              )
+(
+                          "Output_name" => 'Electrical Point',
+                          "Result_as_per_the_model" => '76.90947'
+                              )
+                              
+7. Variable is set to get the top results from the array.
+8. print it in the label.
+
+
+## Screenshots of the Application
+
+### User Interface
+
+![](Screen_shot_Object_detection/User_interface.png)
+
+### Permission for camera
+
+![](Screen_shot_Object_detection/Permission'.png)
+
+### Output after the image running through the model
+
+![](Screen_shot_Object_detection/Demo1.png)
+![](Screen_shot_Object_detection/Demo2.png)
+![](Screen_shot_Object_detection/Demo3.png)
+![](Screen_shot_Object_detection/Demo4.png)
+![](Screen_shot_Object_detection/Demo5.png)
