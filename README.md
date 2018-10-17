@@ -36,16 +36,16 @@ I made a Machine Learning application where we the user clicks the camera button
 
 ### User Interface
 
-![](Screenshot/User_interface.PNG)
+<img src="Screenshot/User_interface.PNG" width="200" height="400" />
 
 ### Permission for camera
-
-![](Screenshot/Permission'.PNG)
+<img src="Screenshot/Permission'.PNG" width="200" height="400" />
 
 ### Output after the image running through the model
 
-![](Screenshot/Demo1.PNG)
-![](Screenshot/Demo2.PNG)
-![](Screenshot/Demo3.PNG)
-![](Screenshot/Demo4.PNG)
-![](Screenshot/Demo5.PNG)
+<img src="Screenshot/Demo1.PNG" width="200" height="400" />
+<img src="Screenshot/Demo2.PNG" width="200" height="400" />
+<img src="Screenshot/Demo3.PNG" width="200" height="400" />
+<img src="Screenshot/Demo4.PNG" width="200" height="400" />
+<img src="Screenshot/Demo5.PNG" width="200" height="400" />
+
